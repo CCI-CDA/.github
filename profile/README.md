@@ -27,4 +27,3 @@ Mettre à disposition un point d’API permettant de tester automatiquement un m
 - [SpamClassifierFinalDide](https://github.com/CCI-CDA/SpamClassifierFinalDide)
 - [Spameur_Dassise](https://github.com/CCI-CDA/Spameur_Dassise)
 - [Spam-Classifier-Ghilas](https://github.com/CCI-CDA/Spam-Classifier-Ghilas)
-- 
